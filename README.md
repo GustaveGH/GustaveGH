@@ -1,7 +1,4 @@
-- 👋 Hi, my name is Gustavo Henriques!
-- 🌱 I’m currently learning PHP!
-- 📫 I'm from Portugal!
-
+## Hi my name is Gustavo Henriques. Welcome to my Profile!!
 
 <div>
 <a href="https://github.com/GustaveGH">
