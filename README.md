@@ -1,12 +1,12 @@
 ## Hi my name is Gustavo Henriques. Welcome to my Profile!!
 
 <div>
-<h2>I use these technologies in my projects:</h2>
+<h3>I use these technologies in my projects:</h3>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="widht:50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="widht:50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="widht:50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" style="widht:50px"/>
+<i class="devicon-html5-plain-wordmark colored"></i>
+  <i class="devicon-css3-plain-wordmark colored"></i>
+  <i class="devicon-php-plain colored"></i>
+  <i class="devicon-laravel-plain-wordmark colored"></i>
 </div>
  
 <div>
