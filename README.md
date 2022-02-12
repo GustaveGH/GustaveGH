@@ -1,8 +1,9 @@
 ## Hi my name is Gustavo Henriques. Welcome to my Profile!!
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
 <div>
 <h3>I use these technologies in my projects:</h3>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <i class="devicon-html5-plain-wordmark colored"></i>
   <i class="devicon-css3-plain-wordmark colored"></i>
   <i class="devicon-php-plain colored"></i>
