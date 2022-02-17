@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-##
+##uwu
 <div>
 <a href="https://github.com/GustaveGH">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustaveGH&amp;show_icons=true&amp;theme=calm&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
