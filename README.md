@@ -2,10 +2,8 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-speech_balloon Ask me about tech and cs:go
-smile Pronouns: https://pronoun.is/she
-sparkles Fun fact: I'm a PLP (promotora legal popular). A person who works in defense, preventing violations and promoting rights. More.
-zap Stacks: PHP(Laravel, Livewire), Node.js, Python, SQL, HTML , CSS
+💬 Ask me about tech and cs:go
+⚡ Stacks: PHP(Laravel, Livewire), Node.js, Python, SQL, HTML , CSS
 
 ##
 
