@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-💬 Ask me about tech and cs:go
+💬 Ask me about tech and cs:go.
 ⚡ Stacks: PHP(Laravel, Livewire), Node.js, Python, SQL, HTML , CSS
 
 ##
