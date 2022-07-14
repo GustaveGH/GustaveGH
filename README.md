@@ -6,6 +6,8 @@
 
 ⚡ Stacks: PHP(Laravel, Livewire), Node.js, Python, SQL, HTML , CSS
 
+📝 Current learning : Rust
+
 ##
 
 <div>
