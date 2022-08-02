@@ -4,9 +4,7 @@
 
 💬 Ask me about tech and cs:go.
 
-⚡ Stacks: PHP(Laravel, Livewire), Node.js, Python, SQL, HTML , CSS
-
-📝 Current learning : Rust
+⚡ Stacks: PHP(Laravel, Livewire), C++, Node.js(ExpressJS), Python, SQL, HTML, CSS
 
 ##
 
