@@ -1,6 +1,8 @@
-## Hi my name is Gustavo Henriques. Welcome to my Profile!!
+# Hi my name is Gustavo Henriques. Welcome to my Profile!!
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
+✨ Full Stack Developer with a passion for C++ and Penetration Testing
 
 💬 Ask me about tech and cs:go.
 
