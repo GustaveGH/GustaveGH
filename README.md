@@ -2,9 +2,9 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-✨ Full Stack Developer with a passion for C++ and Penetration Testing
+✨ Full Stack Web Developer with a passion for C++ and Pen Testing.
 
-💬 Ask me about tech and cs:go.
+💬 Ask me about tech.
 
 ⚡ Stacks: PHP(Laravel, Livewire), C++, Node.js(ExpressJS), Python, SQL, HTML, CSS
 
