@@ -4,8 +4,6 @@
 
 ✨ Full Stack Web Developer with a passion for C++ and Pen Testing.
 
-💬 Hobby: Learn Game Development.
-
 ⚡ Stacks: PHP(Laravel, Livewire), C++, Node.js(ExpressJS), Python, SQL, HTML, CSS
 
 ##
