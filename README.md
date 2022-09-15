@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-✨ Full Stack Developer with a passion for C++ and Pen Testing.
+✨ Full Stack Web and Mobile Developer with a passion for Pen Testing.
 
 ⚡ Stacks: PHP(Laravel, Livewire), C++, Node.js(ExpressJS), Python, SQL, HTML, CSS
 
